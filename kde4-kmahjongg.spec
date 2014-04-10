@@ -6,12 +6,12 @@ Summary:	KDE Mahjongg clone
 Summary(pl.UTF-8):	Klon gry Mahjongg dla KDE
 Summary(pt_BR.UTF-8):	Versão do jogo Mahjongg para o KDE
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	f8fca28b1a1cf3fd93f1e6dfd6ba3470
+# Source0-md5:	b434ef2a2a82db800a910e216860006d
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
